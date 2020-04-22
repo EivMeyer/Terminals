@@ -4,7 +4,7 @@ Airline simulator game created in ActionScript 3 created in 2014.
 
 ## Credits
 
-* **Eivind Meyer** - Lead programmer and producer [EivMeyer](https://github.com/EivMeyer)
+* **Eivind Meyer** - Lead programmer and producer
 * **Lucas Steele** - Designer
 * **Sytrus** - Writer
 
